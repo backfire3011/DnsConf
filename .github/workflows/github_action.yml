@@ -1,4 +1,4 @@
-name: DNS Block&Redirect Configurer cron task
+name: My-DNS Block&Redirect Configurer cron task
 
 on:
   schedule:
